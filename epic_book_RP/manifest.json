@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Adds an epic book.",
+        "name": "Epic Book Resource Pack",
+        "uuid": "611048c4-f859-4cb1-b395-799558061bef",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 19, 60 ]
+    },
+    "modules": [
+        {
+            "description": "Example vanilla resource pack",
+            "type": "resources",
+            "uuid": "1b045e06-1549-4b17-a64e-12682ec5bb65",
+            "version": [0, 0, 1]
+        }
+    ]
+}

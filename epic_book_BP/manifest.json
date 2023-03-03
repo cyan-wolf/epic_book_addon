@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Adds an epic book.",
+        "name": "Epic Book Behavior Pack",
+        "uuid": "bb2c918d-38b4-47cb-819d-afa02ee445a6",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 19, 60 ]
+    },
+    "modules": [
+        {
+            "description": "Example vanilla behavior pack",
+            "type": "data",
+            "uuid": "5cb04302-273c-438b-9c7e-6cee39dac3a7",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "611048c4-f859-4cb1-b395-799558061bef",
+            "version": [0, 0, 1]
+        }
+    ]
+}
