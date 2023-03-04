@@ -2,7 +2,7 @@
 
 TO DO
 - Make Crafting recipes
-- New ore (omw)
+- ~New ore (omw)~ Done
 - New tomes
 -- Ideas:
 --- Maybe a blizzard tome that summons a slow moving cloud of particles that deals a bit of damage, weakens and slows the affected entity and gives the freezing fov?
