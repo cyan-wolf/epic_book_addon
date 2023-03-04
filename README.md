@@ -15,7 +15,7 @@
 - Custom crafting table
 
 ## Links to Add-On creation resources
-- [Vanilla behavior and resource pack (.zip) download](https://github.com/Mojang/bedrock-samples/releases/tag/v1.19.60.3)
+- [Vanilla behavior and resource pack (.zip) download](https://github.com/Mojang/bedrock-samples/releases/latest)
 - [Crafting recipe generator](https://crafting.thedestruc7i0n.ca/)
 - [Minecraft Bedrock Dev wiki](https://wiki.bedrock.dev/)
 - [Intro Add-On documentation](https://learn.microsoft.com/en-us/minecraft/creator/documents/gettingstarted)
