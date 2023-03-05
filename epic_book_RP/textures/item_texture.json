@@ -2,6 +2,12 @@
     "resource_pack_name" : "epic_book",
     "texture_name" : "atlas.items",
     "texture_data" : {
+        "bismuth_compressed" : {
+            "textures" : "textures/items/bismuth_compressed"
+        },
+        "bismuth_shard" : {
+            "textures" : "textures/items/bismuth_shard"
+        },
         "lightning_book" : {
             "textures" : "textures/items/lightning_book"
         }

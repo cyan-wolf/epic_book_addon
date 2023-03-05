@@ -1,1 +1,7 @@
 item.epic_book:lightning_book=Lightning Book
+item.epic_book:bismuth_shard=Bismuth Shard
+item.epic_book:bismuth_compressed=Compressed Bismuth
+
+tile.epic_book:bismuth_block.name=Bismuth Block
+tile.epic_book:bismuth_ore.name=Bismuth Ore
+tile.epic_book:bismuth_ore_deepslate.name=Deepslate Bismuth Ore

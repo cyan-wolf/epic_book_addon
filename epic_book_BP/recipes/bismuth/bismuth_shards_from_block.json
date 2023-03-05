@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "epic_book:bismuth_shards_from_block"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "#"
+        ],
+        "key": {
+            "#": {
+                "item": "epic_book:bismuth_block"
+            }
+        },
+        "result": {
+            "item": "epic_book:bismuth_compressed",
+            "count": 9
+        }
+    }
+}

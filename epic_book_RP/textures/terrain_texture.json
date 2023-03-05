@@ -1,0 +1,20 @@
+{
+	"resource_pack_name": "epic_book",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+        "bismuth_block": {
+            "textures": "textures/blocks/bismuth_block"
+        },
+		"bismuth_ore": {
+			"textures": "textures/blocks/bismuth_ore"
+		},
+        "bismuth_ore_deepslate": {
+			"textures": "textures/blocks/bismuth_ore_deepslate"
+		},
+		"placeholder": {
+			"textures": "textures/blocks/placeholder"
+		}
+	}
+}

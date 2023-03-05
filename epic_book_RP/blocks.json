@@ -1,0 +1,15 @@
+{
+	"format_version": [1, 1, 0],
+	"epic_book:bismuth_block": {
+		"textures": "bismuth_block",
+		"sound": "metal"
+	},
+    "epic_book:bismuth_ore": {
+		"textures": "bismuth_ore",
+		"sound": "stone"
+	},
+    "epic_book:bismuth_ore_deepslate": {
+		"textures": "bismuth_ore_deepslate",
+		"sound": "stone"
+	}
+}

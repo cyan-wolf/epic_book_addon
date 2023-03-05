@@ -1,0 +1,25 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "epic_book:bismuth_block_from_compressed"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "###",
+            "###",
+            "###"
+        ],
+        "key": {
+            "#": {
+                "item": "epic_book:bismuth_compressed"
+            }
+        },
+        "result": {
+            "item": "epic_book:bismuth_block",
+            "count": 1
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:item": {
+        "description": {
+            "identifier": "epic_book:bismuth_shard"
+      },
+        "components": {
+            "minecraft:max_stack_size": 64,
+            "menu_category": {
+				"category": "items"
+			},
+            "minecraft:icon": {
+                "texture": "bismuth_shard"
+            }
+        }
+    }
+}
