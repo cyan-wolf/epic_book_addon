@@ -1,0 +1,25 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "epic_book:placeholder_lightning_book_in_tome_table"
+        },
+        "tags": [
+            "tome_table"
+        ],
+        "pattern": [
+            " # ",
+            "# #",
+            " # "
+        ],
+        "key": {
+            "#": {
+                "item": "epic_book:bismuth_compressed"
+            }
+        },
+        "result": {
+            "item": "epic_book:lightning_book",
+            "count": 1
+        }
+    }
+}

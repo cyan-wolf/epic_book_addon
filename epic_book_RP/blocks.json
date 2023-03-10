@@ -11,5 +11,9 @@
     "epic_book:bismuth_ore_deepslate": {
 		"textures": "bismuth_ore_deepslate",
 		"sound": "stone"
+	},
+	"epic_book:tome_table": {
+		"textures": "placeholder",
+		"sound": "wood"
 	}
 }

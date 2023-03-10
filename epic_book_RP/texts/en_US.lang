@@ -5,3 +5,4 @@ item.epic_book:bismuth_compressed=Compressed Bismuth
 tile.epic_book:bismuth_block.name=Bismuth Block
 tile.epic_book:bismuth_ore.name=Bismuth Ore
 tile.epic_book:bismuth_ore_deepslate.name=Deepslate Bismuth Ore
+tile.epic_book:tome_table.name=Tome Table
